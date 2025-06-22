@@ -7,7 +7,7 @@ Welcome to my personal portfolio repository! I'm **Ashritha**, a Computer Scienc
 ##  Tech Stack
 - **Languages:** Python
 - **Web Development:** HTML, CSS, JavaScript
-- **Tools & IDEs:** Git, GitHub, VS Code, IDLE (Python)
+- **Tools & IDEs:**  VS Code, IDLE (Python)
 - **Databases:** MySQL
 
 ---
