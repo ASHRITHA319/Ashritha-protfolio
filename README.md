@@ -27,5 +27,3 @@ An IoT-inspired system that monitors vehicle parameters and stores critical data
 - **Portfolio Website:** [ashritha319.github.io/Ashritha-protfolio](https://ashritha319.github.io/Ashritha-protfolio)
 
 ---
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
